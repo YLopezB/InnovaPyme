@@ -1,0 +1,48 @@
+--ENTREVISTA CUALITATIVA – PROYECTO DE SOFTWARE PARA MICROEMPRESAS INFORMALES INNOVAPYME--
+
+Presentación:
+
+Buenas Noches, mi nombre es Yeison Andrés López, soy estudiante de Ingeniería de Software y junto con mi equipo estamos desarrollando un proyecto de investigación.
+La idea es crear un prototipo de software que ayude a microempresas informales a organizar mejor su información sobre ventas, gastos y clientes, de manera que puedan tomar mejores decisiones en tiempo real.
+Esta entrevista busca conocer cómo maneja usted actualmente la información de su negocio, qué dificultades tiene y qué expectativas tendría frente a una herramienta tecnológica esta entrevista es confidencial y con fines netamente académicos, agradezco el tiempo que nos brinde hoy.
+
+1. ¿Hace cuánto tiempo tiene su negocio y cómo nació esta idea?
+
+2. ¿Cómo describiría el día a día en su negocio?
+
+3. ¿Cómo maneja actualmente la información de su negocio, como ventas, compras, gastos o pagos de clientes?
+
+4. ¿Con qué dificultades se encuentra al manejar esta información?
+
+5. ¿Qué consecuencias cree usted que le trae esa forma de manejar la información?
+
+6. ¿Le interesaría poder tener una herramienta digital que le muestre en tiempo real cómo está su negocio?
+
+7. ¿Qué características cree que debería tener una aplicación para que usted realmente la use?
+
+8. ¿Estaría dispuesto a pagar por una aplicación de este tipo?
+
+
+Muchísimas gracias por su tiempo y por permitirnos conocer cómo maneja su negocio de verdad que su opinión es muy valiosa para nuestro proyecto porque nos ayuda a entender sus necesidades.
+
+
+Respuestas:
+
+1. Tengo esta ferretería hace más de 5 años y pues la idea nació porque mi papá trabajó toda la vida en construcción y yo aprendí desde joven el tema de materiales. Al principio empecé vendiendo cemento, varillas y herramientas básicas en el barrio, poco a poco fui ampliando el surtido, y ya hoy en día vendo desde tornillos hasta productos de plomería, electricidad y cemento.
+
+2. Pues amigo, el día a día es bastante movido. Yo abro muy temprano y desde la mañana llegan los maestros de obra a comprar material, también vienen clientes a comprar cositas más pequeñas. Esto a veces es un caos, porque uno está vendiendo, cobrando, revisando si hay material disponible, haciendo cuentas, y atendiendo proveedores y todo al tiempo, en ocasiones me ayuda mi hija en la tarde cuando no está haciendo tareas.
+
+3. La mayor parte de las cosas las sigo apuntando en un cuaderno grande porque es mas fácil apunto lo que vendo, lo que compro y los fiados de las personas que ya conozco, cuando ya no esta tan movido o ya en la noche paso todo eso a un archivo en Excel ahí anoto las ventas, las compras y los fiados; también tengo una cajíta donde guardo las facturas de los proveedores, aunque a veces cuando el negocio esta full dejo estas facturas en el bolsillo, se me olvida la caja, trato siempre de ponerle orden a esto, pero a veces se me olvida.
+
+4. mmm... pues lo más complicado es el desorden, como le dije antes a veces se me quedan las facturas en el bolsillo y después eso va a la lavadora, mi esposa si es la que esta pendiente de la ropa y pues el Excel me ayuda mucho, pero a veces si me da pereza ponerme a registrar todo eso y pasarlo, cuando lo hago en la misma venta es más fácil, pero no todo el tiempo esta esto tranquilo.
+El inventario sigue siendo cansón, porque ni en el cuaderno ni en Excel me queda bien claro qué hay en bodega, yo tengo aquí en el negocio todo organizado y se donde va cada cosa y me toca ir a mirar si hay o no lo que el cliente pide, a veces son 2, 3 viajes es muy cansón eso.
+El fiado eso no hablar, porque a veces llegan cuando esto esta lleno, anoto solo el nombre y luego no recuerdo exactamente qué se llevó el cliente, cuando van a pagar, toca listar todo porque piensa que uno les apunta demás y uno les da un recibo y tampoco lo traen y esos talonarios se pierden también, a veces no hay papel carbón y toca apuntar dos veces.
+
+5. Pues siento que no sé realmente cuánto es lo que uno gana, yo más o menos tengo idea de uno aquí vende bastante y siempre entra platica, pero entre lo que uno gasta, lo que se repone mercancía y lo que queda a fiado, no tengo una cifra clara, el Excel ayuda pero a veces esa información no es tan viable porque uno se le olvida apuntar ahí las ventas y las compras. Mi mujer me ayuda a revisar las cuentas, pero igual siempre queda la duda a veces compra de más porque no me doy cuenta de lo que ya había comprado y también me he quedado sin un producto justo cuando más lo piden.
+
+6. Uy claro que sí. Si pudiera ver en el celular o en el computador cuánto vendí en el día, qué debo a proveedores, qué gente me debe, y además qué productos se están moviendo más, sería mucho más fácil. Ya no tendría que estar pasando todo al cuaderno y después al Excel. Todo estaría en un mismo lugar y actualizado al instante.
+
+7. Lo principal que sea así fácil, que uno pueda meter ahí los datos rápido, también me gustaría que me avisara cuando un producto ya se esté acabando para que no le pase a uno que se queda sin mercancía, que me muestre qué clientes llevan tiempo sin pagar, que yo pueda ver las ganancias del mes y que pueda registrar las ventas rápido como un recibo y cotizaciones.
+
+8. Sí, pero tiene que ser algo razonable, uno en estos negocios no gana tanto para un sistema así, pero si la aplicación me ayuda a tener más claro lo que gano y lo que gasto,
+y me evita perder plata por los fiados o por desorden, yo sí pagaría.
