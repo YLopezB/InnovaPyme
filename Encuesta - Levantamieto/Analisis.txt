@@ -1,0 +1,36 @@
+-- Análisis de resultados de la encuesta – Proyecto InnovaPyme --
+
+Con el propósito de validar la información obtenida durante la fase de empatizar, se aplicó una encuesta cuantitativa dirigida a comerciantes, microempresarios y dueños de negocios informales de diferentes nichos de la ciudad de Cartago, Valle del Cauca.
+El instrumento, aplicado mediante Google Forms, tuvo como finalidad identificar los métodos actuales de manejo de la información, las principales dificultades, y el nivel de aceptación hacia la implementación de herramientas tecnológicas para la gestión administrativa.
+
+El 37.5% de las personas encuestadas son propietarios o administradores de negocios con más de tres años de funcionamiento, esto nos indica que cuentan con una experiencia consolidada en la gestión de operaciones.
+Un 37.5% corresponde a negocios recientes con menos de 1 año de experiencia y el restante de las personas encuestadas que equivale al 25% tiene entre 1 y 3 años de experiencia en el sector.
+
+Las personas encuestadas tienen negocios como ferreterías, tiendas de abarrotes, servicios de mensajería, domicilios, comercio de ropa y calzado, peluquerías, misceláneas, almacenes de pinturas y ventas en general, esto nos permite ver una gran diversidad en el mercado objetivo.
+
+El 71% de las personas encuestadas son personas que gestionan directamente su negocio, mientras que solo el 29% tiene empleados.
+
+En cuanto a la gestión actual de la información los resultados muestran mas de la mitad de las personas encuestadas aún registra sus operaciones de manera manual en cuadernos o libretas, y un dato importante es que el 63% manifesto utilizar excel y solo un 25% emplea algún tipo de software.
+
+En cuanto a la disposición hacia la transformación digital, el 100% de los encuestados afirmó que le gustaría poder visualizar la información de su negocio en tiempo real y un 75% expresó estar dispuesto a pagar por una aplicación que los ayude a gestionar su negocio.
+
+Esto indica una alta aceptación tecnológica potencial, siempre que la herramienta sea fácil de usar, accesible y brinde valor inmediato.
+
+En cuanto a las principales problemáticas que enfrentan las personas encuestadas se destacaron:
+
+1- Falta de claridad en las ganancias reales ->	63%
+2- Pérdida de facturas o comprobantes -> 50%
+3- Manejo complicado de inventario -> 50%
+4- Desorden en los registros -> 25%
+
+Esta pregunta fue de tipo selección multiple para abarcar todas las dificultades, estos resultados reflejan que las personas encuestadas dedican mucho tiempo a tareas repetitivas, esto hace que disminuya la eficiencia y aumenta la posibilidad al error humano.
+
+Sobre las expectativas de una herramienta que facilite su trabajo, las personas encuestadas manifestaron que las funciones que más deseaban en la aplicación son:
+
+1- Control de inventario -> 63%
+2- Reportes automáticos de ganancias y gastos -> 63%
+3- Registro de ventas en tiempo real -> 50%
+4- Gestión de cartera, alertas de productos bajos en stock y cotizaciones y facturación sencilla -> 25%
+
+Estos datos validan directamente la necesidad de desarrollar módulos claves en el prototipo y que se tengan en cuenta en la fase de idear, centrados en la gestión de ventas, inventarios y reportes en tiempo real.
+
